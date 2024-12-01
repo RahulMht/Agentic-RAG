@@ -13,7 +13,7 @@ Agentic-RAG is an intelligent conversational agent designed to answer user queri
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/agentic-chatbo](https://github.com/RahulMht/Agentic-RAG.git
+   git clone https://github.com/RahulMht/Agentic-RAG.git
    cd agentic-RAG
    ```
 
